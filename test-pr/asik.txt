@@ -1,3 +1,3 @@
 ini file baru
-
+;
 ini fitur baru dari dannpa
